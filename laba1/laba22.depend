@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630661896 source:c:\users\evapo\desktop\ñ+\laba22\main.cpp
+	<iostream>
+	<windows.h>
+	<inttypes.h>
+
